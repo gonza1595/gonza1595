@@ -17,4 +17,4 @@ Technologies:
 
 Contact me!
 
-- <img height="25" src="./vs.png" href="aveirogonzalo3cnp@gmail.com">
+- <img height="25" src="aveirogonzalo3cnp@gmail.com">
