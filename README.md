@@ -5,20 +5,16 @@ I'm a Full Stack Developer. I'm from Argentina
 
 Technologies:
 
-- JavaScript <img height="20" src="./javascript.png">
+- JavaScript <img height="25" src="./javascript.png">
+- ReactJS <img height="25" src="./React.png">
+- HTML <img height="25" src="./html.png">
+- CSS <img height="25" src="./CSS3.png">
+- PostgreSQL <img height="25" src="./postSQL.png">
+- Sequelize <img height="25" src="./seq.png">
+- NodeJS <img height="25" src="./node.png">
+- Express <img height="25" src="./express.png">
+- VS Code <img height="25" src="./vs.png">
 
-- ReactJS <img height="20" src="./React.png">
+Contact me!
 
-- HTML <img height="20" src="./html.png">
-
-- CSS <img height="20" src="./CSS3.png">
-
-- PostgreSQL <img height="20" src="./postSQL.png">
-
-- Sequelize <img height="20" src="./seq.png">
-
-- NodeJS <img height="20" src="./node.png">
-
-- Express <img height="20" src="./express.png">
-
-- VS Code <img height="20" src="./vs.png">
+- <img height="25" src="./vs.png" href="aveirogonzalo3cnp@gmail.com">
