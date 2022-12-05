@@ -17,4 +17,4 @@ Technologies:
 
 Contact me!
 
-- <a href="https://www.linkedin.com/in/gonzalo-aveiro-03a3811a2/"> <img height="25" src="./link.png"> </a>
+<a href="https://www.linkedin.com/in/gonzalo-aveiro-03a3811a2/"> <img height="25" src="./link.png"> </a>
