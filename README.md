@@ -1,5 +1,5 @@
 <h1 align="center">Hello Word 👋, I'm Gonzalo</h1>
-<h3 align="center">I'm 26 years old, I'm from Argentina, since I was a child technology and video games caught my attention, at this moment I am studying Systems Engineering, a career in which I am in my 4th year. Last semester I realized that I was passionate about programming and decided to take the full stack developer course. I show you my skills below. Thank you !!</h3>
+<h3 align="center">I'm 27 years old, I'm from Argentina, since I was a child technology and video games caught my attention, at this moment I am studying Systems Engineering, a career in which I am in my 4th year. Last semester I realized that I was passionate about programming and decided to take the full stack developer course. I show you my skills below. Thank you !!</h3>
 
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, PosgreSQL, Sequelize, Express, Node Js**
 
